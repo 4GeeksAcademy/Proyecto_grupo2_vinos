@@ -31,7 +31,7 @@ if __name__ == '__main__':
     r = Requester(c.BASE_URL)
 
     # Defines the payload, i.e., filters to be used on the search
-    
+
     payload = {
         #"country_codes[]": "",
         "currency_code": "EUR",
@@ -41,8 +41,8 @@ if __name__ == '__main__':
         "min_rating": 1,
         "order_by": "price",
         "order": "desc",
-        "price_range_min": 16,
-        "price_range_max": 18,
+        "price_range_min": 51,
+        "price_range_max": 70,
         "vc_only" : "",
         "wsa_year": "null",
         "discount_prices":"false",
