@@ -32,25 +32,29 @@ if __name__ == '__main__':
 
     # Defines the payload, i.e., filters to be used on the search
     payload = {
-        "country_codes[]": "br",
+        #"country_codes[]": "",
+        "currency_code": "EUR",
         # "food_ids[]": 20,
         # "grape_ids[]": 3,
         # "grape_filter": "varietal",
-        "min_rating": 3.7,
-        # "order_by": "ratings_average",
-        # "order": "desc",
-        # "price_range_min": 25,
-        # "price_range_max": 100,
+        "min_rating":1,
+        "order_by": "price",
+        "order": "desc",
+        "price_range_min": 28,
+        "price_range_max": 30,
+        "vc_only" : "",
+        "wsa_year": "null",
+        "discount_prices":"false",
         # "region_ids[]": 383,
         # "wine_style_ids[]": 98,
-        # "wine_type_ids[]": 1,
-        # "wine_type_ids[]": 2,
+        "wine_type_ids[]": 1,
+        #wine_type_ids[]" : 2,
         # "wine_type_ids[]": 3,
         # "wine_type_ids[]": 4,
         # "wine_type_ids[]": 7,
         # "wine_type_ids[]": 24,
     }
-
+#https://www.vivino.com/explore?currency_code=EUR&min_rating=1&order_by=price&order=desc&page=1&price_range_max=7&price_range_min=0&vc_only=&wsa_year=null&discount_prices=false&wine_type_ids[]=1
     # Performs an initial request to get the number of records (wines)
     res = r.get('explore/explore?', params=payload)
     n_matches = res.json()['explore_vintage']['records_matched']
