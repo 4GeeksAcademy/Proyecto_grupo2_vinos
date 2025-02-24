@@ -31,20 +31,25 @@ if __name__ == '__main__':
     r = Requester(c.BASE_URL)
 
     # Defines the payload, i.e., filters to be used on the search
+    
     payload = {
-        "country_codes[]": "br",
+        #"country_codes[]": "",
+        "currency_code": "EUR",
         # "food_ids[]": 20,
         # "grape_ids[]": 3,
         # "grape_filter": "varietal",
-        "min_rating": 3.7,
-        # "order_by": "ratings_average",
-        # "order": "desc",
-        # "price_range_min": 25,
-        # "price_range_max": 100,
+        "min_rating": 1,
+        "order_by": "price",
+        "order": "desc",
+        "price_range_min": 16,
+        "price_range_max": 18,
+        "vc_only" : "",
+        "wsa_year": "null",
+        "discount_prices":"false",
         # "region_ids[]": 383,
         # "wine_style_ids[]": 98,
         # "wine_type_ids[]": 1,
-        # "wine_type_ids[]": 2,
+        "wine_type_ids[]": 2,
         # "wine_type_ids[]": 3,
         # "wine_type_ids[]": 4,
         # "wine_type_ids[]": 7,
