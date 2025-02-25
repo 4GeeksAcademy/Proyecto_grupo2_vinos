@@ -1,5 +1,4 @@
 import argparse
-
 import utils.constants as c
 from utils.requester import Requester
 
@@ -38,19 +37,19 @@ if __name__ == '__main__':
         # "food_ids[]": 20,
         # "grape_ids[]": 3,
         # "grape_filter": "varietal",
-        "min_rating": 1,
+        "min_rating": 0,
         "order_by": "price",
         "order": "desc",
-        "price_range_min": 51,
-        "price_range_max": 70,
+        "price_range_min": 100,
+        "price_range_max": 4000,
         "vc_only" : "",
         "wsa_year": "null",
         "discount_prices":"false",
         # "region_ids[]": 383,
         # "wine_style_ids[]": 98,
         # "wine_type_ids[]": 1,
-        "wine_type_ids[]": 2,
-        # "wine_type_ids[]": 3,
+        #"wine_type_ids[]": 2,
+        "wine_type_ids[]": 3,
         # "wine_type_ids[]": 4,
         # "wine_type_ids[]": 7,
         # "wine_type_ids[]": 24,
