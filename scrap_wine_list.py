@@ -32,16 +32,24 @@ if __name__ == '__main__':
 
     # Defines the payload, i.e., filters to be used on the search
     payload = {
-        #"country_codes[]": "",
-        "currency_code": "EUR",
+        #"country_codes[]": "de",
+        #"country_codes[]": "ar",
+        #"country_codes[]": "au",
+        #"country_codes[]": "at",
+        #"country_codes[]": "cl",
+        #"country_codes[]": "es",
+        #"country_codes[]": "us",
+        #"country_codes[]": "it",
+        "country_codes[]": "pt",
+        #"currency_code": "EUR",
         # "food_ids[]": 20,
         # "grape_ids[]": 3,
         # "grape_filter": "varietal",
         "min_rating":1,
         "order_by": "price",
         "order": "desc",
-        "price_range_min": 28,
-        "price_range_max": 30,
+        "price_range_min": 499,
+        "price_range_max": 500,
         "vc_only" : "",
         "wsa_year": "null",
         "discount_prices":"false",
@@ -54,7 +62,7 @@ if __name__ == '__main__':
         # "wine_type_ids[]": 7,
         # "wine_type_ids[]": 24,
     }
-#https://www.vivino.com/explore?currency_code=EUR&min_rating=1&order_by=price&order=desc&page=1&price_range_max=7&price_range_min=0&vc_only=&wsa_year=null&discount_prices=false&wine_type_ids[]=1
+#https://www.vivino.com/explore?currency_code=EUR&min_rating=1&order_by=price&order=desc&page=2&price_range_max=500&price_range_min=500&vc_only=&wsa_year=null&discount_prices=false&country_codes[]=de&country_codes[]=ar&country_codes[]=au&country_codes[]=at&country_codes[]=cl&country_codes[]=es&country_codes[]=us&country_codes[]=it&country_codes[]=pt&wine_type_ids[]=1
     # Performs an initial request to get the number of records (wines)
     res = r.get('explore/explore?', params=payload)
     n_matches = res.json()['explore_vintage']['records_matched']
