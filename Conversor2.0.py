@@ -32,10 +32,10 @@ with open('/Users/josetudela/Projects/vinos_grupo2/Proyecto_grupo2_vinos/lista_t
 # List to store new URLs
 new_urls = []
 batch_size = 100
-batch_number = 17
+batch_number = 41
 
 # Process each URL in the list
-for original_url in urls_list[1700:]:
+for original_url in urls_list[4100:]:
     print(f"Procesando URL: {original_url}")  # Show progress
 
     try:
@@ -50,7 +50,7 @@ for original_url in urls_list[1700:]:
         # Get the new URL
         new_url = driver.current_url
         print(f"Nueva URL: {new_url}")
-
+        
         # Add the new URL to the list
         new_urls.append(new_url)
 
