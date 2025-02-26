@@ -6,7 +6,7 @@ import os
 
 # Function to save URLs to a file
 def save_urls_to_file(urls, batch_number):
-    filename = f'def_restoespumoso40100_{batch_number}.txt'
+    filename = f'def_blanco1517_{batch_number}.txt'
     with open(filename, 'w') as file:
         for url in urls:
             file.write(url + '\n')
@@ -25,12 +25,12 @@ options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Apple
 driver = webdriver.Chrome(options=options)
 
 # Read URLs from a .txt file
-with open('restoespumoso40100.txt', 'r') as file:
+with open('vinoblanco1517.txt', 'r') as file:
     urls_list = [line.strip() for line in file.readlines()]
 
 # List to store new URLs
 new_urls = []
-batch_size = 200
+batch_size = 100
 batch_number = 1
 
 # Process each URL in the list
