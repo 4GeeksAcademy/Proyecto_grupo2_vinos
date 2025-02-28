@@ -6,7 +6,7 @@ import os
 
 # Function to save URLs to a file
 def save_urls_to_file(urls, batch_number):
-    filename = f'def_blanco1517_{batch_number}.txt'
+    filename = f'def_blanco70100_{batch_number}.txt'
     with open(filename, 'w') as file:
         for url in urls:
             file.write(url + '\n')
@@ -19,13 +19,17 @@ options.add_argument("--disable-gpu")
 options.add_argument("--window-size=1920x1080")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--no-sandbox")
+options.add_argument("--disable-blink-features=AutomationControlled")
+options.add_experimental_option("excludeSwitches", ["enable-automation"])
+options.add_experimental_option("useAutomationExtension", False)
+
 options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
 
 # Initialize the WebDriver
 driver = webdriver.Chrome(options=options)
 
 # Read URLs from a .txt file
-with open('vinoblanco1517.txt', 'r') as file:
+with open('vinoblanco70100.txt', 'r') as file:
     urls_list = [line.strip() for line in file.readlines()]
 
 # List to store new URLs

@@ -19,5 +19,5 @@ def remove_duplicates(file_path):
     print(f"Archivo actualizado: {file_path}")
 
 # Ejemplo de uso
-file_path = 'vinoblanco08.txt'  # Cambia esto por el nombre de tu archivo
+file_path = 'vinoblanco2123.txt'  # Cambia esto por el nombre de tu archivo
 remove_duplicates(file_path)
