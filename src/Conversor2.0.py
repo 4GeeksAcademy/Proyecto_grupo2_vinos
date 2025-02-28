@@ -32,10 +32,10 @@ with open('/Users/josetudela/Projects/vinos_grupo2/Proyecto_grupo2_vinos/lista_t
 # List to store new URLs
 new_urls = []
 batch_size = 100
-batch_number = 41
+batch_number = 131
 
 # Process each URL in the list
-for original_url in urls_list[4100:]:
+for original_url in urls_list[13100:]:
     print(f"Procesando URL: {original_url}")  # Show progress
 
     try:
