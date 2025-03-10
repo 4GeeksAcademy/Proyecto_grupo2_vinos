@@ -15,7 +15,7 @@ service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service)
 
 # Leer las URLs desde el archivo de texto
-with open("pruebavino00.txt", "r") as file:
+with open("vinos espumosos de 40 a 100.txt", "r") as file:
     urls = file.readlines()
 urls = [url.strip() for url in urls]  # Limpiar los saltos de línea
 
@@ -71,17 +71,12 @@ for index, url in enumerate(urls, start=1):
     # Guardar en la lista
     data.append({"Wine_ID": wine_id, **taste_notes_dict})
 
-    # Guardar cada 25 vinos
-    if index % 25 == 0:
-        print(f"Guardando datos después de {index} vinos...")
-        df = pd.DataFrame(data)
-        df.to_csv(f"vivino_wines_{index}.csv", index=False)
-        print(f"Datos guardados en vivino_wines_{index}.csv")
+   
 
 # Al finalizar, guardar el resto de los datos si hay menos de 25 vinos al final
 if data:
     df = pd.DataFrame(data)
-    df.to_csv("vivino_wines_final.csv", index=False)
+    df.to_csv("espumosos40a100.csv", index=False)
     print("Datos finales guardados en vivino_wines_final.csv")
 
 # Cerrar el driver
