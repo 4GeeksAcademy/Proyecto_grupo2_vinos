@@ -19,7 +19,7 @@ driver = webdriver.Chrome(service=service, options=options)
 
 # Leer las URLs desde el archivo
 input_filename = "Vinos blancos de 9 a 11.txt"
-output_basename = os.path.splitext(os.path.basename(input_filename))[0]  # "espumosos40a100"
+output_basename = os.path.splitext(os.path.basename(input_filename))[0]  
 
 start_index = 100  # Cambia este valor para elegir desde qué fila comenzar
 
