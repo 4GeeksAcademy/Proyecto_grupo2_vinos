@@ -1,5 +1,4 @@
---- tintos_1_15000_limpio_9.csv ---
-﻿Wine_ID,Taste_Note_1,Taste_Note_2,Taste_Note_3
+ID,Taste_Note_1,Taste_Note_2,Taste_Note_3
 1188827,"tabaco, roble, chocolat...","cuero, Terroso, mineral...","ciruela, frutos del bos..."
 1583942,"arándano, mora, ciruela","cereza, frambuesa, frut...","cuero, Terroso, humo"
 7418511,"cereza, cereza roja, fr...","cereza negra, jambul, m...","Terroso, Carne de caza,..."

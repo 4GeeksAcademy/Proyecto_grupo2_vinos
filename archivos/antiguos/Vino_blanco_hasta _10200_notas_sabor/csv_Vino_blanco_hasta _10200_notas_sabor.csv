@@ -1,0 +1,784 @@
+--- Vino blanco hasta 10200_1.csv ---
+﻿Wine_ID,Taste_Note_1,Taste_Note_2,Taste_Note_3
+1531985,"mantequilla, roble, vai...","manzana, melocotón, man...","minerales, miel, piedra"
+7663927,"miel, solución salina","roble, vainilla",avellana
+1583054,"roble, mantequilla, vai...","melocotón, albaricoque,...","miel, minerales, sílex"
+1427149,"naranja, cítrico, pomel...","tropical, mango, fruta ...","melocotón, albaricoque,..."
+5084353,"roble, vainilla, manteq...","tropical, mango, piña a...","cítrico, limón, lima"
+11543002,"melocotón, pera",minerales,crema
+1873145,"fresa, frutos rojos, ce...","naranja, cítrico, pomel...","pimienta, canela, regal..."
+1999789,"mantequilla, roble, vai...","limón, cítrico, lima","miel, minerales, Terros..."
+1107287,"mantequilla, roble, vai...","manzana, albaricoque, m...","minerales, miel, piedra"
+11036,"roble, mantequilla, vai...","cítrico, limón, lima","minerales, miel, piedra"
+86691,"miel, minerales, piedra","albaricoque, melocotón,...","cítrico, limón, lima"
+6002297,queso,vainilla,
+2641566,"miel, petróleo, sílex","manzana, albaricoque, m...","caramelo, roble, masas ..."
+1805428,"roble, mantequilla, vai...","cítrico, piel de cítric...",crema
+1285507,"mantequilla, roble, vai...","cítrico, limón, lima","minerales, miel, soluci..."
+7469217,"minerales, miel, piedra","cítrico, lima, limón","pera, manzana, albarico..."
+3891566,"roble, mantequilla, vai...","minerales, miel, piedra","manzana, melocotón, dru..."
+9841550,"cítrico, pomelo, limón","roble, vainilla, manteq...","minerales, sílex, cuero"
+2080525,"drupa, albaricoque, mel...","piedra, miel, hongo","mantequilla, vainilla"
+8047228,"petróleo, miel, mineral...","manzana, melocotón, per...","cítrico, limón, piel de..."
+1607424,"manzana, albaricoque, m...","minerales, miel, piedra","limón, cítrico, pomelo"
+1483541,"albaricoque, pera, melo...","roble, mantequilla, vai...","miel, minerales"
+79638,"roble, mantequilla, but...","cítrico, pomelo, limón","minerales, miel, sílex"
+1191381,"melocotón, pera, albari...","miel, minerales, piedra","cítrico, limón, lima"
+3295816,"miel, minerales, piedra","albaricoque, melocotón,...","naranja, cítrico, limón"
+5418292,"vainilla, roble, carame...","melocotón, albaricoque,...","limón, cítrico, lima"
+1185870,"minerales, Terroso, mie...","cítrico, cáscara de lim...","mantequilla, roble"
+1914339,"melocotón, manzana, alb...","piedra, minerales, petr...","cítrico, limón, lima"
+1542264,"roble, mantequilla, caf...","minerales, tiza, ceniza","limón, cítrico, pomelo"
+1318318,"albaricoque, melocotón,...","miel, minerales, piedra","roble, vainilla, manteq..."
+1168870,"vainilla, roble, manteq...","pera, manzana, melocotó...","minerales, miel, piedra"
+1128539,"miel, minerales, humo","mantequilla, roble, vai...","cítrico, limón, pomelo"
+87850,"mantequilla, roble, vai...","manzana, manzana verde,...","minerales, sílex, petró..."
+12678964,No disponible,No disponible,No disponible
+9950191,"eucalipto, tomillo",tropical,cítrico
+1394619,"mantequilla, roble, vai...","miel, minerales, Terros...","cítrico, limón, pomelo"
+1229689,"roble, mantequilla, vai...","cítrico, limón, lima","minerales, miel, piedra"
+1607644,"roble, mantequilla, vai...","minerales, miel, pizarr...","cítrico, limón, cáscara..."
+6383257,"naranja, limón, pomelo","manzana, manzana verde,...","roble, vainilla, manteq..."
+1128540,"roble, mantequilla, vai...","miel, minerales, piedra","cítrico, pomelo, piel d..."
+2215697,"miel, minerales, jengib...","melocotón, albaricoque,...","limón, cítrico, naranja"
+7775183,paja,,
+1173806,"roble, vainilla, manteq...","pera, manzana, melocotó...","cítrico, limón, lima"
+2276102,"miel, minerales, piedra","roble, mantequilla, vai...","cítrico, limón, pomelo"
+780009,"minerales, miel, piedra","mantequilla, roble, vai...","cítrico, limón, lima"
+9895558,"pomelo, limón, lima","minerales, piedra, miel","manzana verde, pera, ma..."
+3903476,"pera, manzana, manzana ...","cítrico, naranja roja, ...","mantequilla, roble"
+15904,"melocotón, pera, albari...","minerales, piedra, miel","cítrico, pomelo, limón"
+100492,"miel, minerales, piedra","albaricoque, manzana, m...","naranja, cítrico, limón"
+1846464,"roble, mantequilla, vai...","manzana, pera, ciruela ...","miel, humo, piedra"
+1739166,"roble, mantequilla, vai...","minerales, miel, humo","cítrico, limón, pomelo"
+13971,"miel, minerales, piedra","manzana, pera, albarico...","cítrico, limón, naranja"
+12501380,No disponible,No disponible,No disponible
+1153150,"miel, minerales, piedra","manzana, melocotón, alb...","cítrico, pomelo, lima"
+6904768,"roble, vainilla",tropical,cítrico
+1969055,"mantequilla, roble","minerales, Terroso","queso, levadura"
+1127429,"roble, mantequilla, vai...","cítrico, limón, lima","minerales, piedra, miel"
+1317954,"minerales, piedra, miel","melocotón, manzana, per...","cítrico, limón, lima"
+5722011,"albaricoque, melocotón,...","minerales, miel, petról...","roble, vainilla, manteq..."
+3699112,"cítrico, limón, mermela...",crema,"minerales, humo"
+10244079,No disponible,No disponible,No disponible
+5953265,"cítrico, limón, lima","minerales, piedra, tiza","manzana verde, pera, ma..."
+1109766,"cítrico, limón, pomelo","melocotón, albaricoque,...","roble, vainilla, manteq..."
+5328800,"melocotón, pera, manzan...","roble, vainilla, manteq...","minerales, humo, grafit..."
+1174531,"miel, minerales, piedra","manzana, manzana verde,...","cítrico, limón, lima"
+79529,"mantequilla, roble, vai...","cítrico, cáscara de lim...","minerales, tiza, miel"
+1206194,"minerales, miel, piedra","manzana, pera, albarico...","cítrico, limón, naranja"
+2149320,"roble, vainilla, manteq...","cítrico, pomelo, limón","miel, minerales, piedra"
+12319077,No disponible,No disponible,No disponible
+6056793,"minerales, miel, petról...","cítrico, pomelo, lima","manzana, manzana verde,..."
+5745097,"melocotón, manzana, alb...","cítrico, limón, lima","minerales, piedra, tiza"
+89061,"minerales, miel, petról...","manzana, melocotón, per...","cítrico, limón, pomelo"
+4896135,"manzana, melocotón, mel...","minerales, humo, sílex","mantequilla, roble, but..."
+10781053,"mantequilla, eneldo, ro...","albaricoque, melocotón ...","hierbas verdes, mentol"
+1635303,"roble, mantequilla, vai...","albaricoque, drupa, man...","piedra, minerales, miel"
+3129436,"melocotón, manzana verd...","cítrico, limón, lima","roble, mantequilla, vai..."
+7210168,"mantequilla, roble",cítrico,crema
+5060706,"caramelo, mantequilla, ...","manzana verde, pera, ma...",avellana
+1102094,"roble, mantequilla, vai...","minerales, miel, piedra","pera, manzana, melocotó..."
+2581810,"miel, minerales, piedra","melocotón, albaricoque,...","cítrico, limón, lima"
+82281,"miel, minerales, piedra","albaricoque, melocotón,...","cítrico, limón, lima"
+3419107,"cítrico, limón, naranja","manzana, pera, manzana ...","minerales, piedra, solu..."
+1128113,"minerales, solución sal...","mantequilla, roble, vai...","cítrico, limón, piel de..."
+74348,"cítrico, pomelo, limón","miel, minerales, piedra","melocotón, manzana verd..."
+3985168,"minerales, miel, piedra","roble, mantequilla, vai...","pera, manzana, melocotó..."
+11921858,No disponible,No disponible,No disponible
+43794,"miel, minerales, sílex","manzana verde, manzana,...","cítrico, limón, cáscara..."
+7542525,No disponible,No disponible,No disponible
+2658912,No disponible,No disponible,No disponible
+86698,"minerales, miel, humo","cítrico, lima, pomelo","manzana, manzana verde,..."
+1179699,"minerales, miel, Terros...","roble, vainilla, manteq...","manzana verde, pera, me..."
+10443673,"roble, vainilla, manteq...","pera, manzana, albarico...","minerales, piedra"
+1493197,"minerales, miel, petról...","melocotón, manzana, dru...","tropical, piña, lichi"
+2927,"mantequilla, roble, vai...","melocotón, manzana, alb...","miel, piedra, minerales"
+5839598,"melocotón blanco, manza...","mantequilla, roble, vai...","limón, cítrico, pomelo"
+1186029,"manzana verde, manzana,...","minerales, humo, soluci...","queso, levadura, crema"
+1383179,"naranja, cítrico","albaricoque, manzana, m...","Terroso, minerales, cer..."
+6085355,naranja,miel,roble
+1102095,"mantequilla, roble, vai...","pera, manzana, melocotó...","minerales, miel, humo"
+1197479,"miel, minerales, piedra","cítrico, limón, pomelo","melocotón, manzana, per..."
+
+
+--- Vino blanco hasta 10200_3.csv ---
+﻿Wine_ID,Taste_Note_1,Taste_Note_2,Taste_Note_3
+4538004,"minerales, miel","lima, cítrico, naranja","roble, mantequilla, vai..."
+79520,"mantequilla, roble, vai...","manzana, melocotón, per...","cítrico, limón, pomelo"
+1290199,"roble, mantequilla, vai...","minerales, humo, sílex","manzana verde, melón, m..."
+2997,"roble, mantequilla, vai...","manzana, pera, albarico...","limón, cítrico, pomelo"
+2261443,"roble, mantequilla, vai...","minerales, miel, piedra","cítrico, limón, lima"
+1153153,"miel, minerales, petról...","melocotón, manzana, per...","cítrico, limón, lima"
+7084749,"miel, minerales, soluci...","manzana, membrillo, alb...","roble, tofi, mantequill..."
+4934068,"manzana, manzana amaril...","nuez, avellana, almendr...","miel, humo, suelo del b..."
+2360817,"melocotón, albaricoque,...","almendra, avellana, bri...","mantequilla, butterscot..."
+1223663,"manzana, pera, albarico...","roble, mantequilla, but...","miel, minerales, humo"
+3984237,"miel, minerales, Terros...","cítrico, limón, lima","manzana verde, manzana,..."
+98160,"mantequilla, roble, vai...","melocotón, pera, manzan...","miel, minerales, humo"
+1127993,"minerales, piedra, miel","albaricoque, manzana, m...","cítrico, limón, piel de..."
+1855967,"arándano rojo, cereza r...","ciruela, casis","Terroso, cuero"
+1525786,"albaricoque, melocotón,...","miel, minerales, piedra","cítrico, limón, lima"
+3260652,"manzana, pera",trufa negra,
+1099421,"cítrico, pomelo, limón","mantequilla, roble, vai...","melocotón, manzana verd..."
+1613322,"minerales, humo, piedra","cítrico, limón, pomelo","mantequilla, roble, vai..."
+2475384,"miel, minerales, jengib...","sabor a nuez, almendra,...","mantequilla, alcanfor"
+2634110,"manzana, melocotón, man...","minerales, miel, piedra","piel de limón, limón, c..."
+1251066,"miel, minerales, piedra","albaricoque, melocotón,...","cítrico, lima, limón"
+9397161,"limón, cítrico","jazmín, pétalo de rosa",melocotón
+12534447,No disponible,No disponible,No disponible
+1489102,"pera, manzana, membrill...","minerales, miel, piedra","limón, cítrico, lima"
+8164925,"manzana, pera, manzana ...","limón, cítrico, lima","mantequilla, vainilla, ..."
+87198,"mantequilla, roble, vai...","minerales, miel, humo","manzana, melocotón blan..."
+5921169,"miel, minerales, piedra","pera, drupa, albaricoqu...","cítrico, limón, lima"
+84918,"roble, mantequilla, vai...","minerales, miel, piedra","cítrico, limón, lima"
+91134,"minerales, piedra, miel","pera, melocotón, drupa","mantequilla, roble, vai..."
+1187336,"minerales, miel, petról...","melocotón, manzana, alb...","cítrico, limón, lima"
+1399369,"roble, vainilla, manteq...","miel, minerales, hongo","manzana, albaricoque, m..."
+1133279,"minerales, jengibre, sí...","cítrico, limón, pomelo","melocotón, albaricoque,..."
+79557,"mantequilla, roble, car...","manzana, melón, manzana...","crema, aceite, levadura"
+1919570,"minerales, miel, petról...","melocotón, manzana, alb...","cítrico, limón, lima"
+1127430,"minerales, piedra, humo","limón, cítrico, lima","manzana verde, melocotó..."
+1219251,"minerales, piedra, miel","cítrico, limón, lima","roble, mantequilla, vai..."
+4135578,"manzana, albaricoque, c...","jengibre, minerales, mi...","cítrico, pomelo, limón"
+1140873,"melocotón, pera, manzan...","miel, minerales, petról...","cítrico, limón, lima"
+7289725,"minerales, solución sal...","cítrico, naranja, limón","vainilla, roble, manteq..."
+1246148,"nuez, sabor a nuez, alm...","manzana, albaricoque, m...","queso, crema, aceite"
+2225046,"minerales, miel, piedra","cítrico, limón, pomelo","manzana, pera, melocotó..."
+1609276,"miel, Terroso, jengibre","melocotón, albaricoque,...",orejones de albaricoque...
+4439709,"manzana, albaricoque, m...","sílex, tiza, Terroso","roble, mantequilla, cla..."
+1714630,"roble, mantequilla, vai...","melocotón, pera, manzan...","miel, minerales, piedra"
+3358815,"roble, mantequilla, vai...","minerales, tiza, miel","cítrico, pomelo, limón"
+4090842,"mantequilla, roble, vai...","miel, minerales, humo","pera, manzana, melón"
+1270,"roble, mantequilla, vai...","melocotón, manzana verd...","cítrico, limón, lima"
+5809033,"pera, melocotón, meloco...","cítrico, limón, lima","minerales, piedra, miel"
+8646396,"tiza, miel, minerales","queso, crema","melón verde, nectarina"
+1102093,"mantequilla, roble, vai...","manzana, albaricoque, p...","cítrico, limón, pomelo"
+
+
+--- Vino blanco hasta 10200_2.csv ---
+﻿Wine_ID,Taste_Note_1,Taste_Note_2,Taste_Note_3
+1170825,"cítrico, limón, lima","minerales, piedra, miel","manzana, manzana verde,..."
+12851362,No disponible,No disponible,No disponible
+1967086,"pera, manzana, manzana ...","miel, aceto balsámico, ...","bergamota, jengibre con..."
+1166277,"mantequilla, roble, vai...","cítrico, limón, lima","minerales, tiza, piedra"
+7088537,"pera, manzana, manzana ...","limón, cítrico, lima","minerales, sílex, piedr..."
+82286,"lichi, tropical, mango","miel, jengibre, piedra","melocotón, albaricoque,..."
+36474,"miel, minerales, humo","roble, vainilla, manteq...","melocotón, albaricoque,..."
+2424887,"mantequilla, vainilla","manzana, melocotón",miel
+1426955,"miel, minerales, humo","albaricoque, melocotón,...","limón, cítrico, naranja"
+82284,"minerales, miel, petról...","manzana, albaricoque, m...","cítrico, limón, lima"
+20655,"melocotón, pera, manzan...","miel, minerales, piedra","cítrico, limón, naranja"
+1098891,"minerales, piedra, miel","limón, cítrico, lima","manzana, pera, melocotó..."
+1153158,"melocotón, manzana, alb...","miel, minerales, piedra","limón, lima, cítrico"
+1443976,"manzana, melocotón, alb...","mantequilla, roble, car...","minerales, humo, piedra"
+1545890,"melocotón, melón, pera","minerales, piedra, síle...","vainilla, mantequilla, ..."
+1221847,"miel, minerales, pizarr...","melocotón, albaricoque,...","cítrico, limón, naranja"
+9396597,"minerales, petróleo, je...","limón, lima, cítrico","manzana, albaricoque, m..."
+1159232,"manzana, melocotón, man...","mantequilla, roble, coc...","minerales, miel, piedra"
+1508147,"albaricoque, manzana, p...","miel, minerales, soluci...","cítrico, naranja, pomel..."
+13157214,No disponible,No disponible,No disponible
+2930,"mantequilla, roble, vai...","miel, minerales, piedra","albaricoque, melocotón,..."
+6663784,"minerales, miel, piedra","roble, vainilla, manteq...","manzana verde, melocotó..."
+2147868,"vainilla, tabaco, mante...","manzana, melocotón, alb...","banana, queso, crema"
+2974489,"minerales, piedra, síle...","roble, mantequilla","cítrico, piel de limón,..."
+1542553,"manzana, albaricoque, p...","minerales, miel, Terros...","roble, mantequilla"
+2702825,"minerales, piedra, síle...","cítrico, limón, lima","roble, mantequilla, vai..."
+1612643,"minerales, piedra, miel","pera, manzana, albarico...","cítrico, limón, lima"
+1615050,"mantequilla, roble, vai...","minerales, miel, piedra","cítrico, limón, lima"
+5341095,"mantequilla, butterscot...","crema, mantequilla sala...","minerales, piedra"
+4156725,"minerales, miel, sílex","mantequilla, roble, vai...","limón, cítrico, lima"
+4406127,"mantequilla, roble, vai...","melocotón, manzana, per...","limón, cítrico, lima"
+85064,"limón, cítrico, lima","minerales, miel, piedra","manzana, albaricoque, m..."
+1132270,"mantequilla, roble, vai...","minerales, piedra, miel","pera, melocotón, manzan..."
+1428166,"roble, mantequilla, vai...","manzana, manzana verde,...","limón, cítrico, pomelo"
+1445969,"naranja, cítrico, cásca...","miel, minerales, aceto ...","albaricoque, melocotón,..."
+5154591,"melocotón, albaricoque,...","naranja, limón, lima","miel, piedra, minerales"
+35594,"miel, minerales, piedra","mantequilla, roble, car...","manzana, melocotón, man..."
+91127,"mantequilla, roble, vai...","cítrico, limón, lima","minerales, tiza, miel"
+11173275,"albaricoque, manzana as...",,
+99553,"roble, mantequilla, vai...","minerales, piedra, miel","melocotón, manzana, alb..."
+1126521,"roble, mantequilla, vai...","manzana, melocotón, per...","cítrico, limón, lima"
+6085222,"naranja, cítrico, pomel...","manzana, albaricoque, m...","miel, minerales, soluci..."
+2225697,"cítrico, limón, lima","minerales, miel, petról...","manzana verde, manzana,..."
+1241858,"minerales, miel, piedra","melocotón, manzana, alb...","cítrico, limón, pomelo"
+11897648,No disponible,No disponible,No disponible
+1186028,"nuez, sabor a nuez, alm...","manzana, pera, manzana ...","queso, levadura, crema"
+1264366,"albaricoque, manzana ve...","hierba, grosella espino...","chocolate, roble, vaini..."
+10731946,"pera, manzana, manzana ...","minerales, sal, piedra","piña, tropical"
+7753823,"albaricoque, melocotón,...","miel, panal de abejas, ...","tropical, mango, lichi"
+12864,"minerales, piedra, miel","cítrico, limón, lima","manzana verde, manzana,..."
+
+
+--- Vino blanco hasta 10200_6.csv ---
+﻿Wine_ID,Taste_Note_1,Taste_Note_2,Taste_Note_3
+1661310,"cítrico, limón, naranja","roble, mantequilla, nue...","miel, sílex, minerales"
+9724965,No disponible,No disponible,No disponible
+1496022,"minerales, piedra, miel","albaricoque, melocotón,...","cítrico, limón, lima"
+1985109,"miel, cacao, sílex","crema, aceite, queso","limón, cítrico, pomelo"
+1968368,"pera, manzana amarilla,...","miel, minerales, piedra","cítrico, limón, lima"
+1373709,"miel, minerales, piedra","manzana verde, melocotó...","cítrico, limón, lima"
+41524,"roble, mantequilla, vai...","minerales, miel, tiza","cítrico, limón, lima"
+1681829,"cítrico, pomelo, limón","mantequilla, roble, vai...","minerales, miel, humo"
+3246896,"minerales, miel, humo","manzana, albaricoque, m...","cítrico, pomelo, limón"
+2415343,"naranja, cítrico, manda...","miel, piedra, minerales","albaricoque, manzana, d..."
+1652273,"roble, mantequilla, mas...","piña, tropical","manzana, melocotón"
+2407265,"naranja, cítrico, limón","caramelo, café, tofi","almendra, azúcar morena..."
+7416739,"miel, minerales, sílex","cítrico, lima, pomelo","roble, mantequilla, vai..."
+41694,"cítrico, pomelo, limón","roble, vainilla, manteq...","minerales, piedra, Terr..."
+11571756,No disponible,No disponible,No disponible
+11679286,No disponible,No disponible,No disponible
+12538794,No disponible,No disponible,No disponible
+6003796,"miel, jengibre, especia...","piña, tropical, mango","albaricoque, manzana, m..."
+2334554,"cítrico, limón, lima","roble, mantequilla, vai...","minerales, piedra, jeng..."
+4838704,"mantequilla, roble, vai...","melocotón, pera, melón","minerales, miel, tiza"
+1421632,"miel, minerales, piedra","pera, manzana, melocotó...","mantequilla, roble, car..."
+10222419,"manzana, melocotón","minerales, sal, piedra","cítrico, pomelo"
+9551844,"pera, manzana verde, ma...","miel, piedra, sílex","limón, cítrico, lima"
+16555,"minerales, miel, humo","mantequilla, vainilla, ...","cítrico, pomelo, limón"
+1188082,"cítrico, naranja, cásca...","vainilla, roble, carame...","manzana, membrillo, alb..."
+12541370,No disponible,No disponible,No disponible
+79534,"minerales, miel, tiza","manzana, melocotón, per...","vainilla, roble, manteq..."
+4736283,"sílex, miel, minerales",cítrico,roble
+1451434,"mantequilla, roble, vai...","manzana, pera, albarico...","cítrico, limón, lima"
+1601653,"manzana, pera, albarico...","minerales, miel, piedra","roble, vainilla, manteq..."
+2208346,"crema, aceite, banana","manzana, manzana verde,...","cítrico, limón, pomelo"
+2391587,"cítrico, limón, lima","minerales, piedra, miel","albaricoque, pera, drup..."
+10407740,"manzana verde, drupa, m...","minerales, miel, piedra","cítrico, limón, naranja"
+79526,"melocotón, albaricoque,...","miel, minerales, piedra","roble, vainilla, manteq..."
+7732582,"melocotón, manzana, alb...","limón, cítrico, naranja","cera de abejas, jengibr..."
+1542998,"mantequilla, roble, vai...","manzana, melocotón, per...","minerales, miel, piedra"
+1581625,"minerales, miel, humo","roble, mantequilla, vai...","cítrico, limón, pomelo"
+1214231,"minerales, sal, miel","cítrico, limón, lima","mantequilla, roble, vai..."
+4273456,"albaricoque, manzana ve...","cítrico, limón, pomelo","minerales, humo, miel"
+10058346,"naranja, limón Meyer, c...","piedra, miel, minerales",mermelada de albaricoqu...
+10244080,"cítrico, pomelo","mantequilla, roble",crema
+1888649,"miel, minerales, piedra","albaricoque, manzana, m...","roble, vainilla, manteq..."
+11761588,No disponible,No disponible,No disponible
+1378431,"almendra, sabor a nuez,...","miel, sílex, Terroso","queso, aceite, crema"
+12872241,No disponible,No disponible,No disponible
+4369302,"minerales, miel, sílex","cítrico, limón, lima","crema, queso"
+1691367,"roble, mantequilla, vai...","cítrico, limón, pomelo","pera, manzana, melocotó..."
+1415377,"miel, minerales, piedra","mantequilla, roble, vai...","cítrico, limón, pomelo"
+5014844,"fresa, sandía, cereza","naranja, cítrico, pomel...","manzana, melocotón, per..."
+1684635,"mantequilla, roble, vai...","cítrico, limón, lima","minerales, miel, piedra"
+
+
+--- Vino blanco hasta 10200_7.csv ---
+﻿Wine_ID,Taste_Note_1,Taste_Note_2,Taste_Note_3
+2241259,"miel, piedra","manzana, melón cantalup...",mantequilla
+7310478,"roble, vainilla, manteq...","minerales, humo, piedra","cítrico, limón, pomelo"
+1148394,"mantequilla, roble, but...","miel, minerales, piedra","limón, cítrico, pomelo"
+13171097,No disponible,No disponible,No disponible
+2550511,"sílex, piedra, miel","pomelo, cítrico, limón","manzana, manzana verde,..."
+4147287,"mantequilla, roble","manzana, melocotón, dru...","aceto balsámico, miel, ..."
+9248332,"manzana, melocotón, per...","minerales, miel, piedra","cítrico, limón, lima"
+1956577,"lichi, piña, tropical","miel, piedra, jengibre","melocotón, albaricoque,..."
+11037939,No disponible,No disponible,No disponible
+79525,"melocotón, albaricoque,...","miel, minerales, piedra","cítrico, limón, pomelo"
+55444,"minerales, miel, soluci...","cítrico, limón, pomelo","manzana, manzana verde,..."
+4875855,"manzana, manzana verde,...","minerales, hongo, miel","cítrico, limón, cáscara..."
+1126990,"miel, minerales, cera d...","roble, mantequilla, vai...","cítrico, limón, lima"
+23156,"miel, minerales, petról...","melocotón, manzana, alb...","cítrico, limón, lima"
+4713555,"miel, petróleo, humo",,
+10645839,"cáscara de naranja, cít...","brioche, almendra, gall...",mantequilla
+1693499,"roble, mantequilla, vai...","melocotón, albaricoque,...","minerales, piedra, miel"
+85913,"cítrico, limón, lima","minerales, sílex, piedr...","mantequilla, roble, vai..."
+1401141,"roble, mantequilla, but...","cítrico, pomelo, lima","tropical, mango"
+1650274,"mantequilla, roble, vai...","minerales, piedra, miel","cítrico, limón, piel de..."
+1457607,"roble, mantequilla, vai...","minerales, miel, piedra","manzana, melocotón, per..."
+18249,No disponible,No disponible,No disponible
+1208496,"roble, vainilla, manteq...","miel, minerales, soluci...","manzana, melocotón, alb..."
+1157444,"minerales, miel, petról...","cítrico, piel de limón,...","manzana, manzana verde,..."
+86234,"melocotón, manzana, per...","minerales, miel, humo","pomelo, limón, cítrico"
+1194721,"mantequilla, roble, vai...","cítrico, lima, limón","manzana, melocotón, mel..."
+5402558,"minerales, miel, petról...","manzana, manzana verde,...","limón, cítrico, pomelo"
+2991,"roble, mantequilla, vai...","manzana, pera, manzana ...","cítrico, limón, pomelo"
+1726747,"mantequilla, roble, vai...","miel, minerales, piedra","almendra, sabor a nuez,..."
+1387740,"minerales, humo, piedra","manzana verde, melocotó...","cítrico, limón, pomelo"
+2486745,"minerales, piedra, miel","cítrico, limón, lima","manzana, melocotón, per..."
+8176718,No disponible,No disponible,No disponible
+10932,"albaricoque, melocotón,...","miel, minerales, piedra","cítrico, limón, pomelo"
+2479250,"melocotón, pera, albari...","miel, piedra, minerales","cítrico, limón, pomelo"
+77676,"tropical, mango, piña","minerales, piedra, síle...","cítrico, pomelo, limón"
+1185256,"vainilla, mantequilla, ...","manzana, manzana verde,...","tostada, almendra tosta..."
+10009139,"roble, vainilla, manteq...","almendra, brioche, tost...",crema
+779977,"roble, mantequilla, vai...","minerales, miel, piedra","cítrico, limón, lima"
+1205518,"mantequilla, vainilla, ...","minerales, piedra, miel","manzana, drupa, pera"
+8951141,"manzana verde, pera",limón,masas de pastelería
+1180881,"pera, manzana, albarico...","minerales, miel, piedra","mantequilla, roble, but..."
+1278288,"mantequilla, roble, vai...","minerales, miel, piedra","cítrico, limón, lima"
+1688,"roble, mantequilla, vai...","pera, melocotón, manzan...","minerales, miel, piedra"
+6301836,"limón, cítrico, pomelo","minerales, tiza, sílex","manzana verde, pera, me..."
+11120653,"humo de arma, miel, min...","almendra, sabor a nuez,...","queso, crema, levadura"
+1484798,"cítrico, lima, pomelo","melocotón, albaricoque,...","crema, queso, queso"
+1555220,"cítrico, limón, lima","manzana, manzana verde,...","minerales, piedra, miel"
+1496158,"almendra, sabor a nuez","mantequilla, palomitas ...","minerales, miel"
+1188795,"pera, manzana, manzana ...","minerales, miel, piedra","roble, vainilla, manteq..."
+1897032,"mantequilla, roble, vai...","melocotón, albaricoque,...","cítrico, limón, pomelo"
+
+
+--- Vino blanco hasta 10200_5.csv ---
+﻿Wine_ID,Taste_Note_1,Taste_Note_2,Taste_Note_3
+2738949,"melocotón, pera, manzan...","minerales, humo, piedra","cáscara de limón, piel ..."
+1552117,"ciruela amarilla, manza...","roble, mantequilla, vai...","mango, guayaba, kiwi"
+1217014,"roble, vainilla","limón, cítrico, pomelo","queso, pan tostado"
+7463259,"roble, mantequilla, vai...","manzana, pera, manzana ...","minerales, piedra, síle..."
+1133302,"minerales, miel, sílex","mantequilla, roble, vai...","cítrico, limón, lima"
+2874975,No disponible,No disponible,No disponible
+779231,"mantequilla, roble",crema,"cítrico, limón, lima"
+4763050,"minerales, piedra, tiza","cítrico, limón, lima","roble, mantequilla, vai..."
+1532242,"roble, mantequilla, vai...","minerales, miel, piedra","manzana, melocotón, per..."
+11235,"roble, mantequilla, vai...","pera, manzana, melocotó...","cítrico, limón, pomelo"
+7389094,"piedra, miel, minerales","roble, caramelo","cítrico, cáscara de lim..."
+1167236,"cítrico, limón, pomelo","mantequilla, roble, vai...","minerales, tiza, piedra"
+1631291,"roble, mantequilla, vai...","miel, minerales, piedra","pera, albaricoque, melo..."
+1885214,"mantequilla, roble, vai...","miel, minerales, hongo","cítrico, limón, pomelo"
+11901927,No disponible,No disponible,No disponible
+77507,"albaricoque, melocotón,...","minerales, miel, jengib...","vainilla, mantequilla, ..."
+3982194,"tropical, fruta de la p...","albaricoque, nectarina,...",miel
+1574901,"albaricoque, manzana, p...","almendra, avellana","cuero, solución salina,..."
+2443877,"melocotón, manzana, per...","miel, minerales, piedra","cítrico, limón, lima"
+1223714,"roble, mantequilla, vai...","minerales, miel, sílex","cítrico, limón, lima"
+68354,"miel, minerales, petról...","melocotón, albaricoque,...","limón, cítrico, lima"
+1805818,"naranja, limón, cáscara...","minerales, humo, cera","albaricoque, melón cant..."
+7430729,"minerales, aceto balsám...","albaricoque, manzana as...","tropical, piña"
+1606721,No disponible,No disponible,No disponible
+5251566,"roble, mantequilla, vai...","minerales, sílex, humo","pera, albaricoque, manz..."
+1404887,"miel, minerales, sílex","limón, cítrico, pomelo","pera, manzana verde, me..."
+1153155,"minerales, miel, petról...","melocotón, manzana, alb...","lima, limón, cítrico"
+9995438,"tiza, minerales",limón,manzanilla
+1702303,"melocotón, albaricoque,...","miel, minerales, piedra","cítrico, limón, lima"
+1759897,"mantequilla, roble, but...","miel, minerales, Terros...","albaricoque, pera, manz..."
+10904698,No disponible,No disponible,No disponible
+11498731,"limón, cáscara de limón...","mantequilla, roble","manzana verde, pera"
+1594560,"mantequilla, roble, vai...","cítrico, limón, pomelo","miel, minerales, piedra"
+75378,"mantequilla, roble, vai...","miel, minerales, piedra","melocotón, pera, albari..."
+84482,"minerales, piedra, miel","cítrico, limón, lima","albaricoque, pera, manz..."
+1945087,"manzana, pera, melón","miel, minerales, sal","cítrico, lima, pomelo"
+1676983,"minerales, miel, piedra","cítrico, limón, lima","manzana verde, manzana,..."
+12992959,No disponible,No disponible,No disponible
+20639,"miel, minerales, cera d...","melocotón, albaricoque,...","mantequilla, roble, vai..."
+9721300,"miel, minerales",manzana verde,cítrico
+1201970,"roble, vainilla, manteq...","minerales, sal, humo","cítrico, limón, piel de..."
+11677393,No disponible,No disponible,No disponible
+9394541,No disponible,No disponible,No disponible
+1391892,"limón, cítrico, lima","roble, mantequilla, vai...","manzana, pera, albarico..."
+1318067,"mantequilla, roble, vai...","minerales, miel, piedra","cítrico, pomelo, limón"
+9767458,"mantequilla, roble, vai...",tropical,cítrico
+4212189,"piedra, minerales, Terr...","roble, mantequilla, but...","drupa, melocotón, pera"
+3496943,No disponible,No disponible,No disponible
+8900738,"miel, sílex, minerales","albaricoque, caqui, mel...","mermelada, cítrico, lim..."
+1235876,"miel, minerales, piedra","melocotón, albaricoque,...","roble, mantequilla, vai..."
+
+
+--- Vino blanco hasta 10200_4.csv ---
+﻿Wine_ID,Taste_Note_1,Taste_Note_2,Taste_Note_3
+6091776,"roble, mantequilla, vai...","tiza, miel, minerales","manzana verde, melocotó..."
+10531530,No disponible,No disponible,No disponible
+736426,"miel, piedra, panal de ...","albaricoque, drupa, mel...","naranja, mermelada, cít..."
+1836068,"roble, mantequilla, vai...","miel, minerales, piedra","albaricoque, manzana, m..."
+98417,"cítrico, pomelo, lima","manzana verde, albarico...","hierba, grosella espino..."
+2171141,"mantequilla, vainilla, ...","cítrico, limón, pomelo","minerales, miel, piedra"
+2024734,"miel, minerales, piedra","albaricoque, melocotón,...","tropical, piña, mango"
+5593236,"roble, vainilla, butter...","almendra, avellana, sab...","manzana, ciruela Mirabe..."
+1925467,"manzana verde, manzana,...","mantequilla, vainilla, ...","minerales, miel, Terros..."
+1207485,"minerales, miel, piedra","mantequilla, roble","cítrico, limón"
+10975,"melocotón, albaricoque,...","miel, minerales, piedra","roble, mantequilla, vai..."
+10333990,No disponible,No disponible,No disponible
+1549212,"minerales, piedra, humo","roble, mantequilla, coc...","melocotón, manzana, dru..."
+84898,"cítrico, limón, lima","minerales, miel, piedra","mantequilla, roble, vai..."
+1378925,"melocotón, albaricoque,...","minerales, miel, piedra","cítrico, limón, pomelo"
+3384230,"roble, mantequilla, vai...","minerales, humo, sílex","cítrico, limón, lima"
+1743740,"roble, mantequilla, vai...","manzana, pera, melocotó...","cítrico, limón, lima"
+1533615,"manzana amarilla, pera,...","cítrico, limón, lima","miel, sílex, minerales"
+1549647,"mantequilla, roble, vai...","minerales, humo, piedra","cítrico, limón, pomelo"
+1152990,"cítrico, pomelo, limón",minerales,"acelga, césped recién c..."
+6226139,"miel, minerales, pizarr...","piña, mango, papaya","melocotón, albaricoque,..."
+6659472,"melocotón, pera, manzan...","limón, cítrico, lima","minerales, piedra, miel"
+2551319,No disponible,No disponible,No disponible
+2101268,"manzana, manzana verde,...","miel, minerales, jengib...","cítrico, mermelada, lim..."
+11859426,No disponible,No disponible,No disponible
+3257463,"minerales, miel, piedra","cítrico, limón, pomelo","manzana, manzana verde,..."
+1656289,"minerales, miel, piedra","melocotón, manzana, per...","cítrico, limón, lima"
+8952803,No disponible,No disponible,No disponible
+1228163,"cítrico, limón, naranja","minerales, sílex, suelo...","mantequilla, vainilla, ..."
+1808607,"miel, minerales, piedra","manzana, manzana verde,...","mantequilla, roble, vai..."
+1222593,"miel, minerales, piedra","manzana, pera, melocotó...","limón, cítrico, naranja"
+5645404,"lichi, tropical",,
+86699,"minerales, piedra, humo","cítrico, limón, pomelo","manzana verde, melocotó..."
+2684652,"roble, mantequilla, vai...","minerales, aceto balsám...","crema, banana"
+4095342,"minerales, miel, sílex","roble, vainilla, manteq...","limón, cítrico, pomelo"
+1232133,"naranja, cáscara de nar...","fresa, frambuesa, cerez...","minerales, Terroso, pie..."
+1218224,"melocotón, pera, manzan...","mantequilla, roble, car...","minerales, tiza, piedra"
+22322,"miel, minerales, piedra","limón, cítrico, pomelo","melocotón, albaricoque,..."
+779986,"mantequilla, roble, vai...","cítrico, limón, lima","manzana, melocotón, alb..."
+1271222,"roble, mantequilla, vai...","melocotón, manzana, man...","minerales, miel, humo"
+3916185,"roble, vainilla, manteq...","cítrico, limón, piel de...","manzana, albaricoque"
+1117171,"miel, minerales, piedra","manzana verde, pera, ma...","mantequilla, roble, vai..."
+7316,"mantequilla, roble, vai...","pera, melocotón, manzan...","minerales, miel, piedra"
+2206139,"miel, minerales, cera d...","melocotón, pera, manzan...","cítrico, limón, pomelo"
+11274609,No disponible,No disponible,No disponible
+8206229,"minerales, sílex, miel","mantequilla, roble, vai...","cítrico, limón, lima"
+9543099,"cítrico, limón, pomelo","minerales, sal",manzana
+7869,"roble, mantequilla, vai...","cítrico, limón, lima","pera, membrillo, manzan..."
+1530399,"albaricoque, manzana, m...","mantequilla, caramelo, ...","cítrico, limón, cáscara..."
+5313010,"tropical, piña, mango","roble, vainilla, manteq...","cítrico, lima, pomelo"
+
+
+--- Vino blanco hasta 10200_13.csv ---
+﻿Wine_ID,Taste_Note_1,Taste_Note_2,Taste_Note_3
+2305079,"roble, mantequilla, vai...","cítrico, lima, pomelo","minerales, jengibre, ti..."
+1148850,"melocotón, manzana, per...","miel, minerales, piedra","roble, vainilla, manteq..."
+1424960,"roble, mantequilla, vai...","cítrico, limón, pomelo","minerales, miel, piedra"
+6463642,"naranja, limón, naranja...",tropical,azahar
+6295273,"cítrico, pomelo, limón","mantequilla, vainilla, ...","minerales, miel, piedra"
+1117168,"limón, cítrico, lima","minerales, miel, Terros...","manzana verde, manzana,..."
+3583665,"naranja, cítrico","melocotón, pera",orejones de albaricoque
+2477482,"cereza negra, casis, za...","cuero, humo",pimienta
+1414647,"miel, minerales, piedra","albaricoque, manzana, p...","cítrico, limón, naranja"
+1924994,"limón, pomelo","manzana verde, manzana","minerales, hongo"
+4853278,"miel, minerales, petról...","manzana verde, manzana,...","cítrico, limón, lima"
+1949999,"roble, mantequilla, vai...","minerales, miel, piedra","cítrico, limón, lima"
+9921023,"miel, sílex, minerales","albaricoque, melocotón,...","limón, mandarina, cítri..."
+1244033,"roble, mantequilla, vai...","melocotón, pera, manzan...","cítrico, limón, lima"
+6935,"roble, mantequilla, vai...","melocotón, manzana, alb...","miel, minerales, piedra"
+1161010,"roble, mantequilla, vai...","cítrico, limón, lima","minerales, miel, piedra"
+1186030,"sabor a nuez, nuez, ave...","miel, cera de abejas, h...","queso, levadura, crema"
+1787248,"minerales, piedra, miel","melocotón, manzana, dru...","cítrico, limón, lima"
+76341,"mantequilla, roble, vai...","minerales, miel, humo","cítrico, limón, pomelo"
+5873336,"cítrico, naranja, pomel...","manzana verde, albarico...","minerales, tiza, caucho"
+75865,"vainilla, mantequilla, ...","pera, melocotón, albari...","piedra, minerales, miel"
+84466,"minerales, miel, piedra","mantequilla, roble, vai...","melocotón, manzana, per..."
+1622227,"minerales, sílex, sal","pera, melocotón, manzan...","roble, mantequilla, vai..."
+1187117,"pera, melocotón, manzan...","cítrico, limón, pomelo","minerales, miel, sal"
+1153152,"minerales, miel, petról...","manzana, albaricoque, m...","lima, cítrico, pomelo"
+1147767,"minerales, miel, hongo","cítrico, naranja, limón","albaricoque, manzana, p..."
+1608522,"melocotón, albaricoque,...","miel, minerales, petról...","cítrico, limón, lima"
+2697998,"manzana, pera, melocotó...","miel, minerales, cera","limón, cítrico, cáscara..."
+1169719,"cítrico, limón, pomelo","mantequilla, roble, vai...","miel, minerales, piedra"
+1491679,"cítrico, limón, pomelo","pera, manzana verde, me...","minerales, miel, piedra"
+2634855,"piedra, sílex, minerale...","mantequilla, roble, vai...","drupa, pera, manzana"
+41284,"cítrico, limón, lima","mantequilla, roble, vai...","manzana verde, manzana,..."
+2125123,"minerales, miel, petról...","albaricoque, melocotón,...","cítrico, limón, pomelo"
+2558496,"roble, mantequilla, car...","humo, cera de abejas, t...","limón, cítrico, cáscara..."
+1240845,"albaricoque, pera, manz...","humo, tiza, Terroso","roble, mantequilla, tab..."
+92249,"cítrico, limón, pomelo","roble, mantequilla, vai...","manzana, melón, manzana..."
+3951901,"mantequilla, roble, mez...","manzana, melocotón, alb...","almendra, galleta, avel..."
+1242847,"minerales, miel, petról...","melocotón, manzana verd...","cítrico, pomelo, lima"
+4522646,"pera, albaricoque, drup...","roble, vainilla, manteq...","miel, piedra, tiza"
+2424533,"miel, minerales, soluci...","mantequilla, chocolate","cereza negra, fruta neg..."
+1107291,"mantequilla, roble, vai...","miel, minerales, piedra","cítrico, limón, lima"
+4488895,"mantequilla, roble, vai...","manzana, pera, melocotó...","miel, minerales, cera"
+1214613,"minerales, miel, piedra","melocotón, manzana, per...","cítrico, limón, pomelo"
+7266350,"mantequilla, roble, tab...","queso, crema","pomelo, limón"
+4838923,"roble, vainilla, manteq...","pera, melocotón, meloco...","cítrico, limón, pomelo"
+9565833,"limón, cítrico, pomelo","solución salina, minera...","roble, mantequilla, ced..."
+1230088,"miel, minerales, jengib...","albaricoque, melocotón,...","lichi, tropical, mango"
+1517108,"minerales, piedra, hong...","mantequilla, roble, but...","almendra, brioche, tost..."
+7632986,"naranja, cítrico, pomel...","piedra, miel, minerales","manzana, manzana amaril..."
+1493925,"minerales, piedra, miel","cítrico, limón, lima","manzana verde, manzana,..."
+
+
+--- Vino blanco hasta 10200_12.csv ---
+﻿Wine_ID,Taste_Note_1,Taste_Note_2,Taste_Note_3
+1284318,"albaricoque, melocotón,...","roble, nuez moscada, ma...","minerales, miel, sal"
+11543231,No disponible,No disponible,No disponible
+1776377,"miel, minerales, petról...","cítrico, pomelo, limón","manzana, albaricoque, m..."
+7601105,"manzana asada, melocotó...","roble, mantequilla, vai...","miel, minerales, hongo"
+2145342,No disponible,No disponible,No disponible
+11426229,"roble, vainilla, manteq...","piña, tropical","manzana, pera"
+4925765,"naranja, cítrico, pomel...","manzana, melocotón, alb...","miel, jengibre, mineral..."
+1698191,"minerales, humo, miel","mantequilla, roble, vai...","melocotón, pera, manzan..."
+1323602,"cítrico, limón, pomelo","melocotón, manzana verd...","miel, minerales, piedra"
+6104544,"minerales, miel, piedra","roble, mantequilla, vai...","melocotón, manzana, man..."
+1308014,"miel, minerales, pizarr...","melocotón, albaricoque,...","cítrico, limón, naranja"
+2162816,limón,minerales,crema
+63804,"miel, minerales, petról...","manzana, melocotón, per...","cítrico, limón, lima"
+1099419,"mantequilla, roble, vai...","manzana, melocotón, per...","minerales, miel, piedra"
+1235688,"minerales, miel, piedra","limón, cítrico, lima","mantequilla, roble, car..."
+10537467,No disponible,No disponible,No disponible
+6251697,"minerales, miel, sílex","limón, cítrico, pomelo","melocotón, albaricoque,..."
+1622554,"manzana, melón, melocot...","miel, minerales, humo","mantequilla, roble"
+12613034,No disponible,No disponible,No disponible
+3080816,"minerales, miel, piedra","melocotón, albaricoque,...","cítrico, limón, lima"
+4819820,"roble, mantequilla, vai...","cítrico, limón, lima",minerales
+2033202,"miel, minerales","manzana, melocotón",
+11971644,No disponible,No disponible,No disponible
+2889081,"mantequilla, roble, vai...","cítrico, pomelo, limón","albaricoque, pera, manz..."
+2917651,"manzana, melocotón, per...","minerales, miel, piedra","roble, vainilla, butter..."
+1153695,"minerales, miel, petról...","melocotón, albaricoque,...","cítrico, limón, lima"
+1112264,"cítrico, pomelo, limón","pera, melocotón, manzan...","minerales, piedra, miel"
+9125878,"pera, manzana, manzana ...","cítrico, cáscara de lim...","levadura, queso, crema"
+79521,"minerales, sílex, humo","roble, mantequilla, vai...","melocotón, pera, membri..."
+5051885,"cítrico, naranja, cásca...","miel, minerales, soluci...","jengibre confitado, can..."
+5680165,"manzana, melocotón, per...","mantequilla, roble, but...","piedra, minerales, piza..."
+12069465,No disponible,No disponible,No disponible
+9392414,tropical,albaricoque,paja
+1950667,"mantequilla, roble, vai...","manzana, melocotón, mem...","almendra, brioche, sabo..."
+1276346,"mantequilla, roble, vai...","minerales, miel, piedra","pera, manzana, melocotó..."
+73234,"roble, mantequilla, vai...","minerales, miel, piedra","cítrico, limón, lima"
+1522697,"roble, mantequilla, vai...","pera, manzana, albarico...","cítrico, limón, lima"
+1128096,pera,cítrico,
+6196610,No disponible,No disponible,No disponible
+86685,"minerales, miel, petról...","melocotón, albaricoque,...","cítrico, limón, lima"
+1605392,"roble, mantequilla, vai...","minerales, piedra, síle...","manzana, manzana verde,..."
+1151473,"limón, cítrico, pomelo","tostada, galleta, almen...","roble, mantequilla, vai..."
+1235362,"minerales, miel, piedra","cítrico, limón, lima","manzana verde, manzana,..."
+1481926,"minerales, piedra, piza...","manzana, albaricoque, m...","limón, cítrico, pomelo"
+1126789,"mantequilla, roble, vai...","minerales, miel, sal","manzana, albaricoque, p..."
+1474005,"manzana, pera, manzana ...","mantequilla, roble, tof...","minerales, miel, piedra"
+77415,"miel, minerales, piedra","melón, melocotón blanco...","roble, vainilla, manteq..."
+6520510,"pera, albaricoque, melo...","cítrico, naranja, limón","minerales, miel, piedra"
+8551029,No disponible,No disponible,No disponible
+16539,"Terroso, sílex, hongo","roble, vainilla, manteq...","albaricoque, nectarina,..."
+
+
+--- Vino blanco hasta 10200_10.csv ---
+﻿Wine_ID,Taste_Note_1,Taste_Note_2,Taste_Note_3
+11093,"mantequilla, roble, vai...","cítrico, limón, lima","minerales, miel, piedra"
+1208450,"miel, minerales, piedra","melocotón, manzana, per...","cítrico, limón, lima"
+6980853,No disponible,No disponible,No disponible
+1313331,"minerales, piedra, humo","cítrico, pomelo, limón","manzana, manzana verde,..."
+2179038,"cítrico, piel de limón,...","minerales, humo",pera
+22663,"roble, mantequilla, vai...","minerales, miel, panal ...","albaricoque, melocotón,..."
+2599542,"mantequilla, roble, vai...","miel, minerales, tiza","melocotón, albaricoque,..."
+87807,"albaricoque, melocotón,...","lichi, tropical, piña","miel, jengibre, petróle..."
+79767,"melocotón, manzana verd...","cítrico, pomelo, limón","tropical, piña, lichi"
+2799634,No disponible,No disponible,No disponible
+9332035,"albaricoque, pera asiát...",cítrico,minerales
+5241896,"manzana, manzana verde,...","miel, minerales, sal","almendra, jarabe de arc..."
+11542994,No disponible,No disponible,No disponible
+17524,"manzana, pera, melocotó...","miel, minerales, piedra","cítrico, limón, pomelo"
+13144765,No disponible,No disponible,No disponible
+12900116,No disponible,No disponible,No disponible
+779126,"roble, vainilla, manteq...","melocotón, pera, melón","limón, cítrico, pomelo"
+5458650,"minerales, humo, sílex","drupa, melocotón, pera",roble
+24119,"mantequilla, roble, vai...","pera, manzana, melocotó...","miel, minerales, piedra"
+12179208,No disponible,No disponible,No disponible
+12170134,No disponible,No disponible,No disponible
+7274914,"miel, minerales, petról...","albaricoque, melón, man...","piña, mango, tropical"
+1127426,"mantequilla, roble, vai...","cítrico, pomelo, limón","minerales, tiza, sílex"
+2153398,"miel, petróleo, mineral...","naranja, cítrico","melocotón, manzana, alb..."
+1215304,"manzana verde, melocotó...","limón, cítrico, lima","minerales, piedra, síle..."
+73267,"mantequilla, roble, vai...","manzana, pera, melocotó...","cítrico, limón, lima"
+12865,"minerales, miel, piedra","cítrico, limón, lima","manzana, manzana verde,..."
+1601664,"mantequilla, roble, vai...","minerales, miel, piedra","pera, manzana, manzana ..."
+1221334,"melocotón, manzana, alb...","minerales, miel, piedra","cítrico, limón, lima"
+1852109,"miel, minerales, petról...","melocotón, manzana, alb...","cítrico, limón, lima"
+1565995,"miel, minerales, jengib...","albaricoque, manzana, m...","lichi, tropical, mango"
+41454,"roble, mantequilla, vai...","manzana, melocotón, per...","minerales, miel, piedra"
+13143872,No disponible,No disponible,No disponible
+6509408,"lichi, fruta de la pasi...","pomelo, naranja, cítric...","melocotón, albaricoque,..."
+83541,"melocotón, manzana, per...","cítrico, pomelo, limón","crema, banana, levadura"
+11444745,"melocotón, albaricoque,...","brioche, sabor a nuez, ...","mantequilla, vainilla"
+11121460,caramelo,,
+14678,"roble, mantequilla, car...","tostada, almendra, cast...","cítrico, limón, piel de..."
+6277157,"albaricoque, manzana ve...","minerales, miel, piedra","limón, lima, cítrico"
+2482040,"pera, manzana verde, ma...","roble, vainilla, manteq...","limón, cítrico, pomelo"
+12024134,No disponible,No disponible,No disponible
+2755331,"minerales, sílex, miel","cítrico, limón, pomelo","roble, vainilla, manteq..."
+2754601,"vainilla, mantequilla, ...","cítrico, limón","minerales, tiza, miel"
+10895699,cítrico,,
+1198703,"mantequilla, roble, vai...","crema, queso, crema de ...","minerales, miel"
+4214734,"miel, minerales, piedra","albaricoque, pera, drup...","cítrico, limón, lima"
+1820833,"mantequilla, roble, vai...","minerales, miel, piedra","manzana, albaricoque, m..."
+1227142,"melocotón, albaricoque,...","piedra, minerales, solu...","cítrico, limón"
+8646084,"melocotón, pera verde, ...","naranja, limón","mantequilla, roble"
+1533415,"roble, mantequilla, car...","miel, minerales, humo","cítrico, limón, lima"
+
+
+--- Vino blanco hasta 10200_11.csv ---
+﻿Wine_ID,Taste_Note_1,Taste_Note_2,Taste_Note_3
+12470859,No disponible,No disponible,No disponible
+12070337,No disponible,No disponible,No disponible
+1105696,"minerales, miel, humo","manzana, pera, melocotó...","cítrico, limón, lima"
+1968543,"pomelo, mermelada, nara...",miel,"mantequilla, coco"
+1198948,"mantequilla, roble, vai...","manzana, melón, manzana...","miel, minerales, hongo"
+2617028,"mantequilla, roble, vai...","manzana, pera, albarico...","cítrico, limón, lima"
+37414,"minerales, miel, petról...","melocotón, albaricoque,...","cítrico, limón, lima"
+6418930,"miel, minerales, humo","pera, manzana, albarico...","cítrico, pomelo, limón"
+23084,"cítrico, pomelo, limón","minerales, miel, humo","manzana verde, melón, m..."
+1597345,"roble, mantequilla, vai...","manzana, albaricoque, m...","crema, levadura, aceite"
+2996,"mantequilla, roble, vai...","manzana, pera, melocotó...","cítrico, limón, pomelo"
+3392419,"minerales, piedra, miel","mantequilla, roble, vai...","cítrico, limón, pomelo"
+68324,"miel, minerales, petról...","melocotón, albaricoque,...","cítrico, limón, lima"
+4025626,"cítrico, pomelo, limón","minerales, miel, piedra","melocotón, melocotón bl..."
+1396403,"minerales, miel, hongo","cítrico, limón, piel de...","drupa, manzana, caqui"
+1275531,"roble, mantequilla, vai...","minerales, piedra, Terr...","pomelo, cítrico, lima"
+1195079,"minerales, miel, piedra","mantequilla, roble, vai...","manzana, albaricoque, p..."
+84913,"mantequilla, roble, vai...","cítrico, limón, lima","manzana, pera, manzana ..."
+1172339,"mantequilla, roble, vai...","cítrico, limón, piel de...","manzana, pera, albarico..."
+1219668,"cítrico, pomelo, limón","manzana, melocotón, per...","crema, crema de limón"
+779226,"minerales, miel, piedra","mantequilla, roble, vai...","cítrico, limón, piel de..."
+1207050,"cítrico, limón, lima","minerales, sílex, miel","manzana, manzana verde,..."
+779973,"roble, mantequilla, vai...","miel, minerales, piedra","melocotón, manzana, alb..."
+1235228,"roble, vainilla, manteq...","albaricoque, manzana, p...","cítrico, limón, cáscara..."
+1597506,"mantequilla, roble, vai...","minerales, miel, piedra","cítrico, limón, lima"
+1141107,"pera, manzana, melocotó...","miel, minerales, petról...","cítrico, limón, lima"
+1814770,"mantequilla, roble, vai...","minerales, miel, piedra","cítrico, limón, cáscara..."
+1507801,"melocotón, albaricoque,...","miel, minerales, piedra","cítrico, limón, pomelo"
+1201875,"minerales, Terroso, mie...","manzana, manzana verde,...","cítrico, lima, pomelo"
+2425702,"mantequilla, roble, vai...","miel, minerales, humo","lima, cítrico, limón"
+8521835,"minerales, hongo","cítrico, pomelo, piel d...","coco, roble, vainilla"
+1178834,"naranja, cítrico, cásca...","miel, minerales, humo","albaricoque, manzana, m..."
+16553,"mantequilla, roble, but...","miel, minerales","albaricoque, melón"
+779225,"mantequilla, roble, vai...","minerales, miel, piedra","cítrico, limón, lima"
+3311081,No disponible,No disponible,No disponible
+1454373,"mantequilla, roble","cítrico, pomelo rosado","minerales, piedra"
+1236464,"melocotón, manzana, man...","minerales, petróleo, qu...","piña, lichi, fruta de l..."
+1591500,"roble, vainilla, manteq...","miel, Terroso, minerale...","albaricoque, manzana, p..."
+9546872,"miel, minerales, soluci...","manzana, melocotón en l...","tropical, mango, piña"
+1187458,"minerales, piedra, miel","roble, mantequilla, vai...","manzana, manzana verde,..."
+1133231,"pera, manzana, melocotó...","miel, minerales, piedra","roble, mantequilla, vai..."
+1396952,"melocotón, albaricoque,...","miel, minerales, jengib...","naranja, cítrico, piel ..."
+75200,"minerales, miel, petról...","melocotón, manzana, alb...","limón, cítrico, piel de..."
+1523897,"queso, aceite, levadura","cítrico, limón, naranja","Terroso, miel, minerale..."
+2410111,"roble, mantequilla, vai...","pera, melocotón, manzan...","miel, minerales, piedra"
+1208731,"roble, vainilla, manteq...","melocotón, manzana, alb...","miel, minerales, sílex"
+4561282,"miel, minerales, piedra","pera, manzana, manzana ...","cítrico, limón, lima"
+7273,"mantequilla, roble, vai...","manzana, melocotón, per...","miel, minerales, piedra"
+1198645,"mantequilla, roble, vai...","cítrico, limón, lima","pera, melocotón, manzan..."
+1524344,"naranja, cáscara de nar...","miel, minerales, cera","albaricoque, melocotón,..."
+
+
+--- Vino blanco hasta 10200_14.csv ---
+﻿Wine_ID,Taste_Note_1,Taste_Note_2,Taste_Note_3
+9488038,piña,cítrico,Terroso
+2716729,"limón, cítrico",minerales,mantequilla
+1718947,"miel, minerales, piedra","melocotón, drupa, albar...","roble, vainilla, manteq..."
+4439738,"pera, manzana, albarico...","minerales, miel, tiza","cítrico, piel de limón,..."
+6417060,"Terroso, miel, hongo",crema,caramelo
+5599176,"manzana, albaricoque, p...","miel, minerales, queros...","cítrico, limón, lima"
+11775445,No disponible,No disponible,No disponible
+24075,"minerales, miel, piedra","mantequilla, roble, but...","cítrico, limón, pomelo"
+1221576,"minerales, miel, tiza","cítrico, limón, pomelo","roble, mantequilla, vai..."
+5994988,"mantequilla, roble, vai...","pera, manzana, albarico...","minerales, sal, piedra"
+99629,"miel, minerales, piedra","albaricoque, melocotón,...","roble, mantequilla, vai..."
+1188172,"minerales, miel, piedra","roble, mantequilla, vai...","cítrico, limón, pomelo"
+1102933,"albaricoque, melocotón,...","miel, minerales, piedra","cítrico, limón, lima"
+6403039,"roble, vainilla, manteq...","limón, cítrico, cáscara...","tropical, mango"
+1240491,"mantequilla, roble, vai...","melocotón, albaricoque,...","minerales, miel, piedra"
+1232656,"cítrico, limón, lima","minerales, piedra, humo","manzana, pera, manzana ..."
+1153151,"miel, minerales, queros...","melocotón, pera, manzan...","limón, lima, pomelo"
+1255075,"roble, mantequilla, vai...","manzana, albaricoque, m...","minerales, miel, humo"
+11378380,No disponible,No disponible,No disponible
+2396179,"minerales, miel, tiza","limón, lima, cítrico","pera, manzana, manzana ..."
+1209743,"cítrico, limón, pomelo","melocotón, pera, meloco...","roble, mantequilla, tof..."
+10676378,No disponible,No disponible,No disponible
+1468428,"miel, hongo, minerales","melocotón, albaricoque,...","cítrico, limón, naranja"
+1977136,"miel, minerales, soluci...","pera, melocotón, manzan...","cítrico, limón, piel de..."
+5173174,"minerales, miel, piedra","manzana, melocotón, per...","cítrico, pomelo, limón"
+1107906,"albaricoque, melocotón,...","miel, minerales, piedra","madreselva, lirio, viol..."
+1257630,"minerales, miel, piedra","cítrico, limón, pomelo","mantequilla, roble, tof..."
+5794737,"roble, mantequilla avel...",crema,"manzana, pera"
+
+
+--- Vino blanco hasta 10200_9.csv ---
+﻿Wine_ID,Taste_Note_1,Taste_Note_2,Taste_Note_3
+2985159,"albaricoque, melocotón,...","limón, cítrico, naranja","roble, nuez moscada, va..."
+6332271,"melocotón, melocotón bl...","crema, pan tostado","vainilla, mantequilla, ..."
+2058604,"minerales, miel, tiza","cítrico, limón, lima","manzana verde, pera, ma..."
+2155298,"roble, vainilla, carame...","miel, hongo, minerales","almendra, sabor a nuez,..."
+9308731,"manzana asada, melón","avellana, tostada",pomelo
+2371063,"miel, minerales, tiza","pera, manzana, melocotó...","cítrico, limón"
+1176637,"melocotón, manzana, mel...","vainilla, roble, mezcla...","tostada, caramelo quema..."
+1126849,"mantequilla, roble, vai...","minerales, miel, piedra","melocotón, pera, manzan..."
+1487895,"jengibre, miel, mineral...","manzana verde, pera, ma...","limón, cítrico"
+1543982,"manzana verde, albarico...","limón, cítrico, pomelo","tostada, sabor a nuez, ..."
+5443218,"minerales, sílex, humo","cítrico, limón, lima","manzana, albaricoque, p..."
+2761645,"melocotón, manzana verd...","cítrico, cáscara de lim...",
+86690,"melocotón, manzana, alb...","miel, minerales, petról...","cítrico, lima, limón"
+2871,"mantequilla, roble, vai...","miel, minerales, piedra","manzana, melocotón, alb..."
+5115,"roble, mantequilla, vai...","pera, melón, manzana","cítrico, limón, piel de..."
+1555830,"cítrico, limón, lima","minerales, piedra, miel","manzana, pera, albarico..."
+1424141,"albaricoque, melocotón,...","miel, minerales, jengib...","butterscotch, mantequil..."
+4901739,"minerales, miel, sílex","roble, mantequilla, vai...","melocotón, manzana, alb..."
+1098866,"melocotón, pera, albari...","miel, piedra, Terroso","cítrico, pomelo, lima"
+9754945,"minerales, sal, piedra","cítrico, limón","manzana, drupa"
+1164660,"minerales, petróleo, mi...","melocotón, pera, manzan...","cítrico, limón, lima"
+2255340,"cítrico, limón, pomelo","minerales, sílex, humo","pera, albaricoque, manz..."
+2711628,"minerales, piedra, síle...","cítrico, lima, pomelo","melocotón, manzana verd..."
+1200673,"albaricoque, melocotón,...","miel, minerales, piedra","roble, mantequilla, vai..."
+1950121,"naranja, cáscara de nar...","miel, jengibre, piedra","albaricoque, melocotón,..."
+7957960,"miel, piedra, minerales","pera, manzana, manzana ...","cítrico, limón, cáscara..."
+8061131,"manzana, pera, albarico...","miel, minerales, sal","acacia, azahar"
+1111721,"cítrico, limón, lima","minerales, miel, humo","manzana, manzana verde,..."
+1155694,"mantequilla, roble, vai...","minerales, miel, piedra","cítrico, limón, pomelo"
+78370,"minerales, piedra, miel","roble, mantequilla, vai...","cítrico, limón, lima"
+76132,"roble, mantequilla, vai...","cítrico, limón, pomelo","melocotón, pera, manzan..."
+1418252,"roble, vainilla, manteq...","manzana, melocotón, alb...","cítrico, lima, cáscara ..."
+1221489,"minerales, humo, sílex","cítrico, limón, piel de...","mantequilla, roble, vai..."
+1923478,"albaricoque, melocotón,...","lichi, tropical, piña","lima, pomelo, cítrico"
+1257115,"miel, minerales, hongo","albaricoque, melocotón ...",crema
+1884225,"roble, mantequilla, vai...","cítrico, limón, lima","melocotón, manzana, nec..."
+5106,"pera, manzana, manzana ...","cítrico, limón, pomelo","minerales, miel, piedra"
+82915,"cítrico, pomelo, limón","pera, manzana, melón","tropical, piña, kiwi"
+11215798,No disponible,No disponible,No disponible
+1107302,"mantequilla, roble, vai...","cítrico, limón","melocotón, drupa, melón"
+1984149,"minerales, miel, piedra","cítrico, limón, naranja","manzana, pera, melocotó..."
+1204146,"minerales, miel, sal","melocotón, manzana, man...","cítrico, limón, lima"
+1351873,"mantequilla, roble, vai...","minerales, miel, sílex","pera, manzana, albarico..."
+6139635,"roble, vainilla, manteq...","manzana verde, pera, ma...","limón, cítrico, piel de..."
+1100051,"minerales, miel, humo","cítrico, limón, lima","roble, mantequilla, vai..."
+2138735,"melocotón, albaricoque,...","miel, minerales, cuero","roble, vainilla, manteq..."
+7106044,"mantequilla, roble, vai...","minerales, miel, sílex","limón, cítrico, lima"
+1922905,"minerales, miel, hongo","mantequilla, caramelo, ...","cítrico, pomelo"
+1299616,"minerales, piedra, miel","roble, mantequilla, car...","cítrico, limón, cáscara..."
+5123429,"melocotón, manzana verd...","mantequilla, roble, vai...","minerales, sílex, miel"
+
+
+--- Vino blanco hasta 10200_8.csv ---
+﻿Wine_ID,Taste_Note_1,Taste_Note_2,Taste_Note_3
+82279,"albaricoque, manzana, m...","miel, minerales, piedra","cítrico, limón, naranja"
+5628236,"mantequilla, roble, vai...","cítrico, pomelo, limón","minerales, miel, sílex"
+3138322,"albaricoque, melocotón,...","miel, sílex, minerales","pomelo, limón, cáscara ..."
+1263,"roble, mantequilla, vai...","cítrico, limón, lima","melocotón, manzana, per..."
+2415206,"vainilla, mantequilla, ...","limón, cítrico, lima","crema, crema de limón"
+11508527,No disponible,No disponible,No disponible
+2876190,"mantequilla, roble, vai...","manzana, pera, albarico...","miel, minerales, piedra"
+1554167,"mantequilla, roble, vai...","minerales, piedra, miel","cítrico, limón, pomelo"
+79553,"mantequilla, roble, vai...","manzana, pera, melocotó...","minerales, piedra, miel"
+1923998,"naranja, cítrico, merme...","miel, minerales, piedra","albaricoque, manzana, m..."
+779988,"mantequilla, roble, vai...","miel, minerales, piedra","pera, manzana, melocotó..."
+3919916,"almendra, nuez negra, h...",,
+2543633,orejones de albaricoque...,"brioche, almendra, sabo...","miel, minerales"
+1197480,"roble, mantequilla, vai...","cítrico, limón, pomelo","minerales, miel, piedra"
+20454,"limón, cítrico, pomelo","mantequilla, roble, vai...","minerales, sal, piedra"
+1800191,"minerales, sílex, miel","cítrico, limón, lima","mantequilla, roble, vai..."
+2485571,"roble, caramelo, vainil...","manzana, pera, manzana ...","cítrico, limón, pomelo"
+2590202,"melocotón, albaricoque,...","cítrico, limón, pomelo","miel, piedra, sílex"
+2773448,"miel, minerales, piedra","manzana, melocotón, alb...","cítrico, limón, lima"
+10925,"miel, minerales, piedra","melocotón, albaricoque,...","roble, mantequilla, vai..."
+1643533,"minerales, miel, piedra","roble, mantequilla, vai...","pera, melocotón, manzan..."
+1244026,"sabor a nuez, nuez, alm...","miel, minerales, soluci...","manzana, albaricoque, p..."
+97369,"limón, cítrico, pomelo","manzana verde, melocotó...","grosella espinosa, paja"
+6266434,"melocotón, albaricoque,...","limón, lima, cítrico","minerales, piedra, miel"
+4965141,"naranja, cítrico, limón","fruta negra, arándano, ...","manzana, melón"
+1183999,"minerales, miel, piedra","cítrico, limón, pomelo","pera, manzana, manzana ..."
+81241,"almendra, sabor a nuez,...","tiza, miel",mermelada
+24077,"miel, minerales, piedra","roble, mantequilla, vai...","cítrico, limón, lima"
+1736263,"melocotón, manzana verd...","miel, minerales, piedra","cítrico, limón, lima"
+2404081,"albaricoque, drupa, mel...","limón, cítrico, limón c...","piedra, minerales, tiza"
+12851087,No disponible,No disponible,No disponible
+82307,"albaricoque, pera, melo...","miel, minerales, soluci...","mermelada, naranja, pom..."
+4868504,"mantequilla, vainilla, ...","melocotón, manzana, alb...","cítrico, limón"
+41664,"roble, mantequilla, vai...","pera, manzana verde, ma...","cítrico, limón, lima"
+8509874,No disponible,No disponible,No disponible
+6093966,"manzana, pera, manzana ...","roble, mantequilla, vai...","minerales, piedra, miel"
+5376608,"vainilla, roble, manteq...","almendra, mazapán, avel...","manzana, melón, melocot..."
+5386788,"minerales, miel, cera","cítrico, limón, cáscara...","manzana, drupa, albaric..."
+1633887,"minerales, piedra, miel","cítrico, limón, naranja","melón, manzana, albaric..."
+10370434,"vainilla, roble","pera, manzana",almendra
+11059,"minerales, miel, piedra","mantequilla, roble, but...","cítrico, limón, limón M..."
+12405742,No disponible,No disponible,No disponible
+98403,"roble, mantequilla, vai...","manzana, melocotón, alb...","miel, sílex, minerales"
+24180,"cítrico, limón, pomelo","minerales, sílex, soluc...","mantequilla, vainilla, ..."
+2965095,No disponible,No disponible,No disponible
+1634474,"mantequilla, roble, vai...","miel, minerales, piedra","cítrico, lima, piel de ..."
+1290949,"mantequilla, roble, car...","minerales, humo, miel","cítrico, limón, pomelo"
+1211155,"albaricoque, melocotón,...","miel, minerales, piedra","vainilla, roble, manteq..."
+2722342,"mantequilla, roble, vai...","pera, manzana, melocotó...","cítrico, limón, mandari..."
+2321474,"mantequilla, roble, vai...","pera, manzana verde, al...","cítrico, limón, pomelo"
+
+
