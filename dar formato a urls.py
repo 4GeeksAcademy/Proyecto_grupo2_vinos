@@ -1,7 +1,7 @@
 import os
 
 # Nombre del archivo de entrada
-nombre_archivo = 'pruebavino00.txt' #Aqui ponéis el nombre del archivo de txt
+nombre_archivo = 'blancos7199.txt' #Aqui ponéis el nombre del archivo de txt
 
 # Abrir el archivo de texto y leer los enlaces
 with open(nombre_archivo, 'r') as file:

@@ -29,7 +29,7 @@ options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Apple
 driver = webdriver.Chrome(options=options)
 
 # Read URLs from a .txt file
-with open('vinoblanco70100.txt', 'r') as file:
+with open('blancos7199.txt', 'r') as file:
     urls_list = [line.strip() for line in file.readlines()]
 
 # List to store new URLs

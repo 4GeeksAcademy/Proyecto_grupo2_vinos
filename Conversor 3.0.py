@@ -7,7 +7,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 # Function to save URLs to a file
 def save_urls_to_file(urls, batch_number):
-    filename = f'def_blanco2833_{batch_number}.txt'
+    filename = f'def_blancos7199_{batch_number}.txt'
     with open(filename, 'w') as file:
         file.write('\n'.join(urls))
     print(f"Las nuevas URLs han sido guardadas en '{filename}'.")
@@ -35,7 +35,7 @@ options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Apple
 options.add_argument("--log-level=3")  # Suppress logs
 
 # Read URLs from a .txt file
-with open('vinoblanco2833.txt', 'r') as file:
+with open('blancos7199.txt', 'r') as file:
     urls_list = [line.strip() for line in file.readlines()]
 
 # List to store new URLs

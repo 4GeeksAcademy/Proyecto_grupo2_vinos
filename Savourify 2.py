@@ -18,10 +18,10 @@ options.add_argument("--enable-logging")  # Activa logs para ver posibles fallos
 driver = webdriver.Chrome(service=service, options=options)
 
 # Leer las URLs desde el archivo
-input_filename = "Vinos blancos de 9 a 11.txt"
+input_filename = "vinos blancos de 40 a 50.txt"
 output_basename = os.path.splitext(os.path.basename(input_filename))[0]  
 
-start_index = 100  # Cambia este valor para elegir desde qué fila comenzar
+start_index = 0  # Cambia este valor para elegir desde qué fila comenzar
 
 with open(input_filename, "r", encoding="utf-8") as file:
     urls = [url.strip() for url in file.readlines() if url.strip().startswith("http")]
