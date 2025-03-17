@@ -1,4 +1,7 @@
 import streamlit as st
+import pandas as pd
+import altair as alt
+import plotly.express as px
 import random
 from PIL import Image
 import requests
@@ -12,8 +15,36 @@ img = Image.open(BytesIO(response.content))
 # Redimensionar la imagen
 img = img.resize((100, 100))
 
-# Configurar la página
-st.set_page_config(page_title="Proyecto Vinos", layout="wide")
+# Cargar frases desde el archivo
+def cargar_frases():
+    try:
+        with open("frases.txt", "r", encoding="utf-8") as file:
+            frases = file.readlines()
+        return [frase.strip() for frase in frases if frase.strip()]
+    except FileNotFoundError:
+        return ["No se encontraron frases sobre vino."]
+
+frases = cargar_frases()
+
+if "mostrar_analisis" not in st.session_state:
+    st.session_state.mostrar_analisis = False
+
+# Inicializar una frase aleatoria en session_state
+if "frase_actual" not in st.session_state:
+    st.session_state.frase_actual = random.choice(frases)
+
+# Función para cambiar la frase
+def cambiar_frase():
+    st.session_state.frase_actual = random.choice(frases)
+
+#Config de la página
+st.set_page_config(
+    page_title="Dashboard sobre vino mundial",
+    page_icon="🍷",
+    layout="wide",
+    initial_sidebar_state="expanded")
+
+alt.themes.enable("dark")
 
 # Sidebar como menú lateral
 with st.sidebar:
@@ -27,8 +58,9 @@ with st.sidebar:
           
     if st.button("Análisis de Datos", key="analisis"):
         st.write("Aquí va el análisis exploratorio")
+        st.session_state.mostrar_analisis = True  # Cambia el estado para mostrar el análisis
         cambiar_frase()
-        
+                
         # Desplegable para opciones de análisis
         option = st.selectbox(
             "Selecciona una opción:",
@@ -111,32 +143,13 @@ with st.sidebar:
         js = "window.open('https://github.com/4GeeksAcademy/Proyecto_grupo2_vinos', '_blank')"
         st.markdown(f'<script>{js}</script>', unsafe_allow_html=True)
 
-# Contenido principal
-st.markdown('<div style="text-align: right;">' + f'<img src="{url}" width="100" height="100">' + '</div>', unsafe_allow_html=True)
-# Cargar frases desde el archivo
-def cargar_frases():
-    try:
-        with open("frases.txt", "r", encoding="utf-8") as file:
-            frases = file.readlines()
-        return [frase.strip() for frase in frases if frase.strip()]
-    except FileNotFoundError:
-        return ["No se encontraron frases sobre vino."]
-
-frases = cargar_frases()
-
-# Inicializar una frase aleatoria en session_state
-if "frase_actual" not in st.session_state:
-    st.session_state.frase_actual = random.choice(frases)
-
-# Función para cambiar la frase
-def cambiar_frase():
-    st.session_state.frase_actual = random.choice(frases)
-
+    
 # Cargar la fuente Playball desde Google Fonts
 st.markdown("""
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
-        
+        @import url('https://fonts.googleapis.com/css?family=Tangerine&display=swap'');
+                
         body {
             background-color: #9e2a2f;  /* Burdeos suave */
             font-family: 'Arial', sans-serif; /* Fuente general */
@@ -146,13 +159,20 @@ st.markdown("""
         }
         
         .header {
-            background-color: #800000; /* Color de fondo del encabezado */
-            color: white; /* Color del texto */
+            width: 1024px; /* Ancho del encabezado */
+            height: 768px; /* Alto del encabezado */
+            background-color: #800000; /* Color de fondo */
+            border-radius: 15px; /* Bordes redondeados */
+            margin: 20px auto; /* Centrar el encabezado */
             padding: 20px; /* Espaciado interno */
             text-align: center; /* Centrar el texto */
-            border-radius: 10px; /* Bordes redondeados */
         }
-
+        .frase {
+            font-family: 'Tangerine', cursive;
+            font-size: 24px;
+            color: white;
+            margin-top: 20px;
+        }
         .button {
             background-color: #b1dbde; /* Color de fondo del botón */
             color: #800000; /* Color del texto del botón */
@@ -168,20 +188,6 @@ st.markdown("""
             color: white; /* Color del texto al pasar el mouse */
         }
 
-        .frame {
-            background-image: url('https://static.vecteezy.com/system/resources/thumbnails/008/953/665/small_2x/old-parchment-paper-sheet-vintage-aged-or-texture-isolated-on-white-background-photo.jpg'); /* URL de la imagen de fondo */
-            background-size: cover;  /* Asegura que la imagen cubra todo el contenedor */
-            background-size: cover;  /* La imagen se ajustará para cubrir todo el contenedor */
-            background-position: center; /* Centra la imagen en el contenedor */
-            background-attachment: fixed; /* Hace que el fondo se quede fijo al desplazarse */
-            padding: 18px;  /* Espaciado interno */
-            border-radius: 15px;  /* Bordes redondeados */
-            text-align: center;  /* Centrar el contenido dentro del marco */
-            opacity: 1; /* Iniciar con opacidad 1 */
-            transition: opacity 1s ease-in-out; /* Transición suave para la frase */
-            width: 100%;  /* Asegura que el contenedor tenga un ancho completo */
-            height: 150px; /* Puedes ajustar la altura del frame a lo que necesites */
-        }
         .hidden {
             opacity: 0; /* Cambiar a opacidad 0 */
         }
@@ -193,22 +199,22 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
+
 # Contenido principal
-st.markdown('<div class="main">', unsafe_allow_html=True)
 
-# Mostrar título y encabezado con estilo
-st.markdown('<p style="font-family: \'Playball\', cursive; font-size: 35px; color: #b1dbde; text-align: center; background-color: #800000; padding: 20px; border-radius: 15px; margin: 20px;">Proyecto de Data Science - 4Geeks <br> Analítica sobre vinos</p>', unsafe_allow_html=True)
-
-# Mostrar la frase dentro de un recuadro con fondo de imagen
-frase_html = f"""
-    <div class="frame" id="frase">
-        <p style="font-family: 'Brush Script MT', cursive; font-size: 24px; color: black; margin-top: 20px;">
-            {st.session_state.frase_actual}
-        </p>
+# Mostrar encabezado con imagen y título
+header_html = f"""
+    <div style="text-align: center; background-color: #800000; padding: 20px; border-radius: 15px; margin: 20px;">
+        <img src="{url}" width="100" height="100" style="display: block; float: right;">
+        <p style="font-family: 'Playball', cursive; font-size: 35px; color: #b1dbde;">
+            Proyecto de Data Science - 4Geeks <br> Analítica sobre vinos
+        </p>   <p class="frase">{st.session_state.frase_actual}</p>            
     </div>
 """
+st.markdown(header_html, unsafe_allow_html=True)
 
-st.markdown(frase_html, unsafe_allow_html=True)
+# Contenido principal
+st.markdown('<div class="main">', unsafe_allow_html=True)
 
 # Script para animar la transición de la frase
 st.markdown("""
@@ -221,5 +227,5 @@ st.markdown("""
     </script>
 """, unsafe_allow_html=True)  
 
-
 st.markdown('</div>', unsafe_allow_html=True)
+
