@@ -7,6 +7,7 @@ from PIL import Image
 import requests
 from io import BytesIO
 
+
 # Cargar la imagen desde la URL
 url = "https://ebootcamp.net/wp-content/uploads/2021/11/4Geeks-Academy.jpeg"
 response = requests.get(url)
