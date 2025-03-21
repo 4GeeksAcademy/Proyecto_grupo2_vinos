@@ -48,6 +48,16 @@ Aquí puedes describir brevemente qué hace cada archivo importante en el proyec
 Pasos detallados sobre cómo instalar y configurar el proyecto en tu entorno local.
 
 1. Enlace Streamlit :
+
+Pagina principal 
+
+Botones : 
+
+- Datos de analisis : 
+    - EDA gráficos generales : mapa del mundo (vinos x país, bodega x país, valoración promedio x país, precio prom x país)
+    - EDA José Maria 
+    - Datos interactivos : 
+
  
 
 ## Uso
