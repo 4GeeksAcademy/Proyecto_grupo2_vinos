@@ -548,7 +548,7 @@ def eda_1():
     st.table(df_top_10_precio.set_index("País"))
  
 
-def eda_2():
+def bodega_perfecta():
 
     st.title("Datos para una bodega perfecta")
     
@@ -643,17 +643,15 @@ def recomendador_de_vinos():
     st.title("Recomendador de vinos")
     
 
-
-
 st.sidebar.title("Navegación")
-pagina= st.sidebar.selectbox("Selecciona una página", ["Página principal", "EDA 1", "EDA 2","Procesado de imagen", "Recomendador de vinos"])
+pagina= st.sidebar.selectbox("Selecciona una página", ["Página principal", "EDA 1", "Bodega Perfecta","Procesado de imagen", "Recomendador de vinos"])
 
 if pagina == "Página principal":
     pagina_principal()
 elif pagina == "EDA 1":
     eda_1()
-elif pagina == "EDA 2":
-    eda_2()
+elif pagina == "Bodega Perfecta":
+    bodega_perfecta()
 elif pagina == "Procesado de imagen":
     img_process()
 elif pagina == "Recomendador de vinos":
